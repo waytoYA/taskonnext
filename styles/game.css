@@ -1,0 +1,26 @@
+:root{
+    /* fon */
+    --bg1: url('../img/backgrounds/bg1/bg1.jpg');
+    --bg2: url('../img/backgrounds/bg2/bg2.jpg');
+    --bg3: url('../img/backgrounds/bg3/bg3.jpg');
+    /* menu */
+    --menu1: url('../img/backgrounds/bg1/menu1.png');
+    --menu2: url('../img/backgrounds/bg2/menu2.png');
+    --menu3: url('../img/backgrounds/bg3/menu3.png');
+    /* items */
+    --bg1-item1: url('../img/items/bg1/item1.png');
+    --bg1-item2: url('../img/items/bg1/item2.png');
+    --bg1-item3: url('../img/items/bg1/item3.png');
+    --bg1-item4: url('../img/items/bg1/item4.png');
+
+    --bg2-item1: url('../img/items/bg2/item1.png');
+    --bg2-item2: url('../img/items/bg2/item2.png');
+    --bg2-item3: url('../img/items/bg2/item3.png');
+    --bg2-item4: url('../img/items/bg2/item4.png');
+
+    --bg3-item1: url('../img/items/bg3/item1.png');
+    --bg3-item2: url('../img/items/bg3/item2.png');
+    --bg3-item3: url('../img/items/bg3/item3.png');
+    --bg3-item4: url('../img/items/bg3/item4.png');
+
+}
